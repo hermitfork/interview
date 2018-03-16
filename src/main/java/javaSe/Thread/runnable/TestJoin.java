@@ -1,4 +1,4 @@
-package javaSe.Thred.runnable;
+package javaSe.Thread.runnable;
 
 /**
  * 测试join方法

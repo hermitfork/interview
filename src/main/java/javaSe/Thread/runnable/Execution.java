@@ -1,4 +1,4 @@
-package javaSe.Thred.runnable;
+package javaSe.Thread.runnable;
 
 import java.util.ArrayList;
 import java.util.Date;
