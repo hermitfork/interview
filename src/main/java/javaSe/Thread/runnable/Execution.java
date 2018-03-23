@@ -9,6 +9,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
+@SuppressWarnings({ "rawtypes", "unchecked" })
 public class Execution {
 	public static void main(String[] args) throws ExecutionException, InterruptedException {
 		System.out.println("----程序开始运行----");
