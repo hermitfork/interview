@@ -11,6 +11,7 @@ import java.util.concurrent.Future;
 
 @SuppressWarnings({ "rawtypes", "unchecked" })
 public class Execution {
+
 	public static void main(String[] args) throws ExecutionException, InterruptedException {
 		System.out.println("----程序开始运行----");
 		Date date1 = new Date();
