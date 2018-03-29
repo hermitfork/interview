@@ -1,6 +1,8 @@
 package javaSe.algorithm;
+
 /**
  * 开平方问题
+ * 
  * @author Administrator
  *
  */
