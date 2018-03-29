@@ -10,6 +10,7 @@ then
  echo "| /data/Artificial.jar -> is jar path                                      |"
  echo "| /data/log.file -> is log path                                            |"
  echo "---------------------------------------------------------------------------"
+ echo "---------------------------------------------------------------------------"
 else
 PID=$(ps -ef | grep $grep_name | grep -v grep | grep -v /bin/bash | awk '{print $2}')
 #echo $(ps -ef | grep $grep_name | grep -v grep | grep -v /bin/bash )
